@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/assumednormal/groupme-akchat",
+	"GoVersion": "go1.14",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
