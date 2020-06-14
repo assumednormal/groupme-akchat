@@ -1,1 +1,1 @@
-web: bin/groupme-akchat
+web: groupme-akchat
