@@ -1,1 +1,1 @@
-web: akchat.go
+web: akchat
